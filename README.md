@@ -1,0 +1,2 @@
+# kafka-connector-jdbc
+binary
